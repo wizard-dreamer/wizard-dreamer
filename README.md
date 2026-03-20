@@ -1,16 +1,112 @@
-# 💫 About Me:
-I'm a developer who enjoys building practical software that solves real problems.  <br>My work mainly focuses on Python-based tools, data analytics projects, and web applications.<br><br>I like experimenting with ideas and turning them into working prototypes — from dashboards that visualize data to lightweight web apps and AI-powered tools.<br><br>Currently exploring:<br>- Data analytics with Python and SQL<br>- Interactive dashboards<br>- AI-driven applications<br>- Backend systems
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Gaurav%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Wizard-Dreamer;Python+Developer;Building+Dashboards+and+Web+Apps;Exploring+AI+and+Data+Analytics"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravsingh_0_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-singh-579a9126a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gs345208@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wizard-dreamer&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wizard-dreamer&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-dreamer&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Building small but meaningful software.<br>
+Dashboards • Web Apps • AI Experiments
+</p>
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=wizard-dreamer&icon=6&color=1)](https://visitcount.itsvg.in)
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio  
+My personal website showcasing projects and experiments.
+
+[View Website](https://gaurav-singh-portfolio-1.netlify.app/)
+
+</td>
+
+<td width="50%">
+
+### 🧠 SelfDecode  
+Personality decoding web application.
+
+[Open App](https://selfdecode.onrender.com/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🕊️ The Words Left Unsent  
+Anonymous confessional web app.
+
+[Try App](https://thewordsleftunsent.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### 📊 Sales Analytics Dashboard  
+Interactive analytics dashboard using Python + SQL.
+
+[Open Dashboard](https://sales-analytics-dashboard-gaurav.streamlit.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,tailwind,git,firebase,mysql,sqlite"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://instagram.com/gauravsingh_0_">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://linkedin.com/in/gaurav-singh-579a9126a">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:gs345208@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wizard-dreamer&show_icons=true&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-dreamer&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=wizard-dreamer&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
